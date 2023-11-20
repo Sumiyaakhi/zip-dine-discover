@@ -4,4 +4,4 @@ This is a web application for a list of restaurants categorised by their locatio
 - On here, I use Tailwind CSS and daisyui for styling.
 - I added a simple banner and footer here.
 
-Project Live Site Link ()
+Project Live Site Link (https://zip-dine-discover.vercel.app/)
