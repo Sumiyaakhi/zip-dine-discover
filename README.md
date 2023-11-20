@@ -1,8 +1,7 @@
-# React + Vite
+This is a web application for a list of restaurants categorised by their location states.
+- In here I use data.json file for fetching the whole data because of the given url is not working.
+- I used only React JS for making this application.
+- On here, I use Tailwind CSS and daisyui for styling.
+- I added a simple banner and footer here.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Live Site Link ()
